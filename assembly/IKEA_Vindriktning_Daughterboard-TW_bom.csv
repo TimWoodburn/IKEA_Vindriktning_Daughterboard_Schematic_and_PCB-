@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+330nF,"C1,C4,C5",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1775
+1.0µF,C2,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C1848
+1.0uF,C3,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C1848
+FTDI Connector,J1,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,
+Conn_01x03_Male,J2,Connector_Molex:Molex_PicoBlade_53398-0371_1x03-1MP_P1.25mm_Vertical,C293633
+CJMCU-680,J3,Connector_Molex:Molex_PicoBlade_53398-0671_1x06-1MP_P1.25mm_Vertical,C277393
+Conn_01x02_Male,J4,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+10K,"R1,R2,R3,R4,R5,R6,R7,R8,R11",Resistor_SMD:R_0805_2012Metric,C17414
+100K,R10,Resistor_SMD:R_0805_2012Metric,C149504
+220K,R9,Resistor_SMD:R_0805_2012Metric,C17556
+ESP-12F,U1,RF_Module:ESP-12E,Copy
+AP2202-3V3,U2,Package_TO_SOT_SMD:SOT-23-5,C150442
